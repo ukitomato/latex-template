@@ -33,12 +33,12 @@ $ dvipdfmx paper
 ## Get Started with ```iplab.sty```
 ### Installation
 ```
-% \usepackage[draft]{iplab}                     % TODO, CHECK, FIXME表示
-% \usepackage[draft,annot]{iplab}               % TODO, CHECK, FIXME表示（注釈有）
-% \usepackage[japanese]{iplab}                  % 日本語表示
-% \usepackage[english]{iplab}                   % 英語表示
-\usepackage[draft,annot,japanese,english]{iplab}    % draft稿
-% \usepackage[publish]{iplab}                   % 提出稿
+% \usepackage[draft]{iplab}                       % TODO, CHECK, FIXME表示
+% \usepackage[draft,annot]{iplab}                 % TODO, CHECK, FIXME表示（注釈有）
+% \usepackage[japanese]{iplab}                    % 日本語表示
+% \usepackage[english]{iplab}                     % Draft English表示
+\usepackage[draft,annot,japanese,english]{iplab}  % draft稿
+% \usepackage[publish]{iplab}                     % 提出稿
 ```
 
 ### Usage of Package iplab.sty
